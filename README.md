@@ -1,6 +1,7 @@
 # Activités Pratiques — Architecture JEE & Systèmes Distribués
 ### Professeur : Mohamed YOUSSFI — ENSET Mohammedia
 
+
 ---
 
 Ce dépôt contient 3 travaux pratiques réalisés dans le cadre du cours d'Architecture JEE et Systèmes Distribués.
