@@ -1,5 +1,6 @@
 # TP Angular + Spring Boot
 
+
 Petite app pour gérer une liste de produits. Front en Angular 19 (standalone) avec Bootstrap, back en Spring Boot avec une base H2.
 
 ## Ce que ça fait

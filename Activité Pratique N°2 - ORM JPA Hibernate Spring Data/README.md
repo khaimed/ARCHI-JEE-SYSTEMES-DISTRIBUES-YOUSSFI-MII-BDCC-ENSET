@@ -2,6 +2,7 @@
 
 ## C'est quoi l'ORM ?
 
+
 Normalement, pour sauvegarder un objet Java dans une base de données, on doit écrire du SQL à la main :
 ```sql
 INSERT INTO product (name, price, quantity) VALUES ('Ordinateur', 15000, 10);
